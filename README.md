@@ -8,7 +8,7 @@ A hardware screen timer to reduce eye strain during long hour of computer work.
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation]([https://linktodocumentation](https://github.com/Grey31415/Twenny/blob/main/Docs))
 
 
 ## Features
