@@ -1,7 +1,7 @@
 
 # Twenny
 
-A hardware screen timer to reduce eye strain during long hour of computer work.
+A hardware screen timer to reduce eye strain during long hours of computer work.
 
 
 
