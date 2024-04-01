@@ -4,6 +4,11 @@
 A hardware screen timer to reduce eye strain during long hours of computer work.
 
 
+## Set Up
+
+"insert setup procedure"
+
+
 
 
 ## Documentation
