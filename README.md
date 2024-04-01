@@ -4,19 +4,19 @@
 A hardware screen timer to reduce eye strain during long hours of computer work.
 
 
-## Set Up
+## 🛠️ Set Up
 
 "insert setup procedure"
 
 
 
 
-## Documentation
+## 📄 Documentation
 
 [Documentation](https://github.com/Grey31415/Twenny/blob/main/Docs)
 
 
-## Features
+## ⚙️ Features
 
 - Simple menu selection UI
 - Twenny Timer: 20min/20sec
