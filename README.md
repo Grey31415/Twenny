@@ -1,7 +1,7 @@
 
 # Twenny
 
-A hardware screen timer to reduce eye strain during long hours of computer work.
+A hardware screen timer to reduce eye strain during long hours of computer work. Twenny uses a 0.97 inch OLED screen in combination with a Node MCU ESP-12F micro controller to display a variety of timers, menus \[and even games :D \]. A complete list of parts is available in the docs-file complete with affiliate links if you would like to support me and my projects ;) .
 
 
 ## 🛠️ Set Up
