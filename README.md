@@ -9,8 +9,7 @@ A full list of parts is available in the docs-file complete with affiliate links
 
 ## 🛠️ Set Up
 
-"insert setup procedure"
-
+Coming Soon! 👀
 
 
 
