@@ -11,13 +11,6 @@ A full list of parts is available in the docs-file complete with affiliate links
 
 Coming Soon! 👀
 
-
-
-## 📄 Documentation
-
-[Documentation](https://github.com/Grey31415/Twenny/blob/main/Docs)
-
-
 ## ⚙️ Features
 
 - Simple menu selection UI
