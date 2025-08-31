@@ -24,6 +24,7 @@ Coming Soon! 👀
 - Twenny Timer: 20min/20sec
 - Timr: Set desired timer manually
 - Clicr: Count total clicks ¯\\_(ツ)_/¯
+- Secret game: Not gonna tell u where it is :)
 
 
 ## Authors
